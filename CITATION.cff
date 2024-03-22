@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Test workbench 2
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Tamora D.'
+    family-names: 'James'
+    email: 't.d.james@sheffield.ac.uk'
+    affiliation: University of Sheffield
+    orcid: 'https://orcid.org/0000-0003-1363-4742'
+repository-code: 'https://github.com/tdjames1/test-workbench-2'
+url: 'tdjames1.github.io/test-workbench-2'
+abstract: >-
+  This is just a test
+keywords:
+  - carpentries
+  - fair4rs
+license: CC-BY-4.0
