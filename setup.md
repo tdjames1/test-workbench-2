@@ -5,6 +5,18 @@ title: Setup
 FIXME: Setup instructions live in this document. Please specify the tools and
 the data sets the Learner needs to have installed.
 
+## Embedding a video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upxUAI-fAtE?si=vo2nK-nGvOGPXhEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Embedding a slideshow
+
+Google Slides: File > Share > Publish to web.
+
+Select embed to generate HTML markup.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5tFIigJJM4aEKJBIPxfKFYs32t7o5nDXu9yoQOtpRTb2cypmYsCWwY3kZ4fgrCGiF-jBpzTgvVrcv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Data Sets
 
 <!--
