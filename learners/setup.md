@@ -5,6 +5,10 @@ title: Setup
 FIXME: Setup instructions live in this document. Please specify the tools and
 the data sets the Learner needs to have installed.
 
+## Embedding a video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upxUAI-fAtE?si=vo2nK-nGvOGPXhEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Data Sets
 
 <!--
